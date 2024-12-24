@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Anahita
 - 👀 I’m interested in game & tech
 - 🌱 I’m currently learning design and develop in XR丨UX丨UI
-- 💞️ I’m looking to collaborate on game design
-- 📫 My email: anahita.rastegar@gmail.com
-- 👩🏻‍💼 My linkedin: https://www.linkedin.com/in/thisisanahita
+
 - 👩🏻‍💻 My portfolio: https://uxfol.io/85a78c6a
